@@ -5,6 +5,8 @@
 .metadata
 *.iml
 *.ipr
-*.bin
 *.out
-*.settings
+*.class
+*.bin
+/bin/
+.DS_Store
